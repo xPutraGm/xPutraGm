@@ -2,7 +2,7 @@
 
 # Hi, I'm Manggala 👋
 
-**Building software through Galvect.**
+**Building software that makes an impact.**
 
 Passionate about creating scalable applications, exploring AI, and contributing to open source.
 
