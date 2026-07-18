@@ -1,99 +1,95 @@
-<h1 align="center">Hi, I'm Putra 👋</h1>
+<div align="center">
 
-<p align="center">
-Building software through <b>Galvect</b>.
-</p>
+# Hi, I'm Manggala 👋
 
-<p align="center">
-Passionate about building modern web applications, backend systems,
-artificial intelligence, and open-source software.
-</p>
+**Building software through Galvect.**
 
----
+Passionate about creating scalable applications, exploring AI, and contributing to open source.
 
-## 🚀 About Me
-
-- 💻 Building products through **Galvect**
-- 🌱 Currently learning **AI, System Design, and Cloud**
-- 🐧 Linux enthusiast
-- ⚡ Always exploring new technologies
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📌 Featured Projects
-
-- 🚀 Portfolio Website
-- 🤖 MindrayGO
-- 💬 Discord Bot
-- 📚 School Projects
-- 🌐 Open Source Contributions
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=USERNAME&hide_border=true"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<p>
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://github.com/USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="[https://linkedin.com/in/USERNAME](https://www.linkedin.com/in/manggala-putra-nugroho-202b50243/)">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://YOUR-PORTFOLIO.COM">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
-</a>
-
-<a href="mailto:EMAIL">
+<a href="#">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<a href="https://github.com/xPutraGm">
+<img src="https://img.shields.io/github/followers/USERNAME?style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge"/>
+
+</p>
+
+</div>
+
+---
+
+## About
+
+- 🚀 Building products through **Galvect**
+- 🌱 Currently learning **AI, Cloud, Full Stack & System Design**
+- 🐧 Linux enthusiast
+- 💡 Always building, always learning.
+
+---
+
+## Tech
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,react,next,nodejs,php,python,go,java,kotlin,mysql,postgres,mongodb,redis,docker,git,linux,nginx,bash,vscode&perline=10"/>
+</p>
+
+---
+
+## Featured Projects
+
+- 🌐 Portfolio Website
+- 🚀 Galvect
+- 🤖 MindrayGO
+- 💬 Discord Applications
+- 📦 Open Source Projects
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=xPutraGm&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xPutraGm&layout=compact&hide_border=true"/>
+
+</p>
+
+---
+
+## Contribution
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=xPutraGm&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xPutraGm&hide_border=true"/>
+
+</p>
+
+---
+
+## Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=algolia&no-frame=true&margin-w=15&row=1"/>
+
 </p>
