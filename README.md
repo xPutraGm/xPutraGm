@@ -11,7 +11,7 @@ Passionate about creating scalable applications, exploring AI, and contributing 
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="[https://linkedin.com/in/USERNAME](https://www.linkedin.com/in/manggala-putra-nugroho-202b50243/)">
+<a href="https://www.linkedin.com/in/manggala-putra-nugroho-202b50243/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -20,10 +20,10 @@ Passionate about creating scalable applications, exploring AI, and contributing 
 </a>
 
 <a href="https://github.com/xPutraGm">
-<img src="https://img.shields.io/github/followers/USERNAME?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/xPutraGm?style=for-the-badge"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=xPutraGm&style=for-the-badge"/>
 
 </p>
 
@@ -90,6 +90,6 @@ Passionate about creating scalable applications, exploring AI, and contributing 
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=algolia&no-frame=true&margin-w=15&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=xPutraGm&theme=algolia&no-frame=true&margin-w=15&row=1"/>
 
 </p>
