@@ -23,7 +23,9 @@ Passionate about creating scalable applications, exploring AI, and contributing 
 <img src="https://img.shields.io/github/followers/xPutraGm?style=for-the-badge"/>
 </a>
 
+<a href="https://github.com/xPutraGm">
 <img src="https://komarev.com/ghpvc/?username=xPutraGm&style=for-the-badge"/>
+</a>
 
 </p>
 
