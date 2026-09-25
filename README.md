@@ -11,7 +11,7 @@ Passionate about creating scalable applications, exploring AI, and contributing 
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/manggala-putra-nugroho-202b50243/">
+<a href="#">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
